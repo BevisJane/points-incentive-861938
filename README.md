@@ -49,3 +49,10 @@ If setup scripts or configuration files are added later, document them in this s
 ## Usage
 
 Use this project as the base for building and maintaining the points incentive functionality.
+
+A typical workflow may include:
+
+1. Clone the repository.
+2. Install the required dependencies.
+3. Configure any local settings.
+4. Run the project locally.
