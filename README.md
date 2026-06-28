@@ -72,3 +72,9 @@ Avoid committing local-only configuration unless it is intended to be shared.
 Use clear branch names and meaningful commit messages.
 
 Review changes before merging them into the main branch.
+
+## Suggested Project Documentation
+
+As the project develops, consider adding:
+
+- Installation requirements.
