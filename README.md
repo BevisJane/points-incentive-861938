@@ -78,3 +78,9 @@ Review changes before merging them into the main branch.
 As the project develops, consider adding:
 
 - Installation requirements.
+- Local development commands.
+- Testing instructions.
+- Deployment instructions.
+- Configuration details.
+- Contribution guidelines.
+- Troubleshooting steps.
