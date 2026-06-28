@@ -43,3 +43,9 @@ Recommended first steps:
 3. Look for dependency or configuration files.
 4. Install any required dependencies listed by the project.
 5. Run the project using the commands defined in the repository.
+
+If setup scripts or configuration files are added later, document them in this section.
+
+## Usage
+
+Use this project as the base for building and maintaining the points incentive functionality.
