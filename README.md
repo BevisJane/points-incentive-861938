@@ -21,3 +21,9 @@ Because the original project documentation is minimal, this README is structured
 ## Repository
 
 Clone the repository with:
+
+```bash
+git clone https://github.com/BevisJane/points-incentive-861938.git
+```
+
+Then enter the project directory:
