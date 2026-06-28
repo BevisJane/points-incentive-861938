@@ -89,3 +89,10 @@ As the project develops, consider adding:
 ## Contributing
 
 Contributions should be easy to understand and review.
+
+Before submitting changes:
+
+1. Make sure the project still runs as expected.
+2. Keep changes focused and relevant.
+3. Update documentation when behavior changes.
+4. Include tests if the project has a test suite.
