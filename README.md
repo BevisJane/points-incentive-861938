@@ -56,3 +56,7 @@ A typical workflow may include:
 2. Install the required dependencies.
 3. Configure any local settings.
 4. Run the project locally.
+5. Make changes in a dedicated branch.
+6. Test the changes before submitting them.
+
+Update this section with exact commands once the application entry point and runtime are defined.
