@@ -60,3 +60,9 @@ A typical workflow may include:
 6. Test the changes before submitting them.
 
 Update this section with exact commands once the application entry point and runtime are defined.
+
+## Development Notes
+
+Keep the README updated when the project structure changes.
+
+Document important decisions, setup steps, and environment requirements as they become available.
