@@ -84,3 +84,8 @@ As the project develops, consider adding:
 - Configuration details.
 - Contribution guidelines.
 - Troubleshooting steps.
+- License information.
+
+## Contributing
+
+Contributions should be easy to understand and review.
