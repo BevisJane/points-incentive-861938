@@ -96,3 +96,8 @@ Before submitting changes:
 2. Keep changes focused and relevant.
 3. Update documentation when behavior changes.
 4. Include tests if the project has a test suite.
+5. Explain the purpose of the change clearly.
+
+## Maintenance
+
+This README should remain aligned with the repository.
