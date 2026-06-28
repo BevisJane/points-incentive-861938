@@ -101,3 +101,9 @@ Before submitting changes:
 ## Maintenance
 
 This README should remain aligned with the repository.
+
+When new tools, commands, or workflows are introduced, add them here.
+
+When old instructions are no longer accurate, remove or revise them.
+
+Good documentation helps future contributors work with the project more confidently.
