@@ -107,3 +107,9 @@ When new tools, commands, or workflows are introduced, add them here.
 When old instructions are no longer accurate, remove or revise them.
 
 Good documentation helps future contributors work with the project more confidently.
+
+## License
+
+No license information was provided in the original README.
+
+Add a license file if the project requires one.
