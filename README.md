@@ -27,3 +27,7 @@ git clone https://github.com/BevisJane/points-incentive-861938.git
 ```
 
 Then enter the project directory:
+
+```bash
+cd points-incentive-861938
+```
