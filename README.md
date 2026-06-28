@@ -37,3 +37,9 @@ cd points-incentive-861938
 After cloning the repository, review the project files to determine the required runtime, package manager, framework, or build tools.
 
 Recommended first steps:
+
+1. Open the repository in your preferred editor.
+2. Review the directory structure.
+3. Look for dependency or configuration files.
+4. Install any required dependencies listed by the project.
+5. Run the project using the commands defined in the repository.
