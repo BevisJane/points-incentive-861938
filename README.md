@@ -15,3 +15,9 @@ Because the original project documentation is minimal, this README is structured
 - Clear project identity and repository reference.
 - Organized documentation for setup and usage.
 - Practical guidance for local development.
+- Notes for maintainers and contributors.
+- A structure that can be expanded as the project grows.
+
+## Repository
+
+Clone the repository with:
