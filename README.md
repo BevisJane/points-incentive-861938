@@ -31,3 +31,9 @@ Then enter the project directory:
 ```bash
 cd points-incentive-861938
 ```
+
+## Setup
+
+After cloning the repository, review the project files to determine the required runtime, package manager, framework, or build tools.
+
+Recommended first steps:
