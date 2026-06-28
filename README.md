@@ -66,3 +66,9 @@ Update this section with exact commands once the application entry point and run
 Keep the README updated when the project structure changes.
 
 Document important decisions, setup steps, and environment requirements as they become available.
+
+Avoid committing local-only configuration unless it is intended to be shared.
+
+Use clear branch names and meaningful commit messages.
+
+Review changes before merging them into the main branch.
